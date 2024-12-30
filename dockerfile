@@ -1,3 +1,3 @@
 FROM node:16-alpine
 
-RUN apk add -u git curl
+RUN apk add -U git curl
